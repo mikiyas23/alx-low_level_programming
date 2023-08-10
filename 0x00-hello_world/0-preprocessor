@@ -1,2 +1,2 @@
 #!/bin/bash
-gsc -E $CFILE -o
+gsc -E $CFILE -o c
