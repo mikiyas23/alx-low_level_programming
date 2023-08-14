@@ -9,7 +9,11 @@ int main(void)
 
 	int i;
 
-	for (i = 97; i <= 111; i++)
+	for (i = 'a'; i <= 'f'; i++)
+	{
+		putchar(i);
+	}
+	for (i = 97; i <= 102; i++)
 	{
 		putchar(i);
 	}
