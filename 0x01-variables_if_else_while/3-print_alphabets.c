@@ -1,8 +1,19 @@
 #include <stdio.h>
-
-void main()
+/**
+* main - Describe script prints alphabet in uppercase
+*
+* Return: 0(Success)
+*/
+int main(void)
 {
-	char
+	char alphabet = 'A';
 
+	{
+		while (alphabet <= 'Z')
 
+		putchar(alphabet);
+		alphabet++;
+	}
+		putchar('\n');
+		return (0);
 }
