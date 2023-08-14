@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * main - Description the script excutes alphabets in lower case
+ *
+ * Return: 0 (Success)
+ */
 
 int main(void)
 {
