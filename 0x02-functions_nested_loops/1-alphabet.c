@@ -10,7 +10,7 @@ void print_alphabet(void)
 {
 	char alphabet;
 
-	for (alphabet = 'a'; alphabet <= 113;)
+	for (alphabet = 'a'; alphabet <= 'z';)
 	{
 		_putchar(alphabet);
 		alphabet++;
